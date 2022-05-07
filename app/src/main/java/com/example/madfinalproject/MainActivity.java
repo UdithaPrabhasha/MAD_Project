@@ -1,15 +1,12 @@
 package com.example.madfinalproject;
 
-import java.text.SimpleDateFormat;
-import java.util.Date;
-
-import androidx.annotation.NonNull;
-import androidx.appcompat.app.AppCompatActivity;
-
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Toast;
+
+import androidx.annotation.NonNull;
+import androidx.appcompat.app.AppCompatActivity;
 
 import com.example.madfinalproject.databinding.ActivityMainBinding;
 import com.google.android.gms.tasks.OnCompleteListener;
@@ -71,6 +68,7 @@ public class MainActivity extends AppCompatActivity {
            @Override
            public void onClick(View v) {
                openlogin(v);
+
            }
        });
 
@@ -80,6 +78,7 @@ public class MainActivity extends AppCompatActivity {
     private void openlogin(View v) {
         Intent intent = new Intent(this,Login.class);
         startActivity(intent);
-
     }
+
+
 }

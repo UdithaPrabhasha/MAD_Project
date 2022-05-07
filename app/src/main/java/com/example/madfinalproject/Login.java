@@ -72,9 +72,9 @@ public class Login extends AppCompatActivity {
         mAuth.signInWithEmailAndPassword(email, password)
                 .addOnCompleteListener(task -> {
                     if (task.isSuccessful()) {
-                        FirebaseUser user = FirebaseAuth.getInstance().getCurrentUser();
-                        String userID = user.getUid();
-                        userRef = FirebaseDatabase.getInstance().getReference("Users");
+                        FirebaseUser customer = FirebaseAuth.getInstance().getCurrentUser();
+                        String name = "Jerry";
+                        userRef = FirebaseDatabase.getInstance().getReference("Customer");
                     } else {
                         Toast.makeText(Login.this, "Login failed! Please check email and password", Toast.LENGTH_LONG).show();
                     }

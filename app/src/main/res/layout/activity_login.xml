@@ -108,20 +108,21 @@
         android:textSize="16sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.554"
         app:layout_constraintStart_toStartOf="parent" />
 
-<!--    <com.google.android.material.progressindicator.CircularProgressIndicator-->
-<!--        android:id="@+id/progressBar"-->
-<!--        android:layout_width="51dp"-->
-<!--        android:layout_height="0dp"-->
-<!--        android:indeterminate="true"-->
-<!--        android:visibility="gone"-->
-<!--        app:layout_constraintBottom_toTopOf="@+id/textView4"-->
-<!--        app:layout_constraintEnd_toEndOf="parent"-->
-<!--        app:layout_constraintHorizontal_bias="0.498"-->
-<!--        app:layout_constraintStart_toStartOf="parent"-->
-<!--        app:layout_constraintTop_toBottomOf="@+id/book2playLogo"-->
-<!--        app:layout_constraintVertical_bias="0.408" />-->
+    <!--    <com.google.android.material.progressindicator.CircularProgressIndicator-->
+    <!--        android:id="@+id/progressBar"-->
+    <!--        android:layout_width="51dp"-->
+    <!--        android:layout_height="0dp"-->
+    <!--        android:indeterminate="true"-->
+    <!--        android:visibility="gone"-->
+    <!--        app:layout_constraintBottom_toTopOf="@+id/textView4"-->
+    <!--        app:layout_constraintEnd_toEndOf="parent"-->
+    <!--        app:layout_constraintHorizontal_bias="0.498"-->
+    <!--        app:layout_constraintStart_toStartOf="parent"-->
+    <!--        app:layout_constraintTop_toBottomOf="@+id/book2playLogo"-->
+    <!--        app:layout_constraintVertical_bias="0.408" />-->
 
 </androidx.constraintlayout.widget.ConstraintLayout>
 </layout>
