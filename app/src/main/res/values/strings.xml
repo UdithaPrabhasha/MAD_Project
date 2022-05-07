@@ -1,0 +1,107 @@
+<resources>
+    <string name="app_name">Mad Application</string>
+    <string name="BTN2">LOGIN</string>
+    <string name="Header">Brave Apparels</string>
+    <string name="BTN3">REGISTER</string>
+
+    <string name="Name"></string>
+    <string name="Email"></string>
+    <string name="Address"></string>
+    <string name="Password"></string>
+    <string name="Telephone"></string>
+
+    <string name="Member">Already a Member? Login</string>
+    <string name="ForgotPassword">Forgot Password?</string>
+    <string name="NewHereRegister">New Here? Register</string>
+    <string name="CName">Mark Anton</string>
+    <string name="CEmail">markanton12@gmail.com</string>
+    <string name="CTelNumber">+94715682121</string>
+    <string name="CAddress">No 40 A Malwaththa Marapana Ratnapura  70001</string>
+    <string name="Payment">Add payment method</string>
+    <string name="SignOut">Sign Out</string>
+    <string name="EditName">Edit Name</string>
+    <string name="EditEmail">Edit Email</string>
+    <string name="EditNumber">Edit Number</string>
+    <string name="BTNSave">Save</string>
+    <string name="BTNCancel">Cancel</string>
+    <string name="DeliveryAddress">Delivery Address</string>
+    <string name="StreetName">Street name</string>
+    <string name="HomeNo">No</string>
+    <string name="Street">Street</string>
+    <string name="PostalCode">Postal code</string>
+    <string name="EditPassword">Edit Password</string>
+    <string name="Feedbacks">"Feedbacks "</string>
+    <string name="Description">“We all need people who will give us  feedback”</string>
+    <string name="Description2">Give us your feedback to improve our service !</string>
+    <string name="AddaFeedback">Add a feedback</string>
+    <string name="Comments">My Comments</string>
+    <string name="Text">Give us your feedback here !</string>
+    <string name="CFeedback">Feedback</string>
+    <string name="Feedback">Feedback</string>
+    <string name="Delete">Delete</string>
+    <string name="Update">Update</string>
+    <string name="MyComments">My Comments</string>
+    <string name="AlreadyMember">AlreadyMember</string>
+    <string name="feedback">Type here</string>
+    <string name="UserName">name</string>
+
+
+
+    <string name="nav_home">Home</string>
+    <string name="nav_bookings">My Bookings</string>
+    <string name="nav_account">Account</string>
+    <string name="nav_logout">Logout</string>
+    <string name="nav_close">close navigation drawer</string>
+    <string name="nav_open">open navigation drawer</string>
+
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <string name="cat_futsal">Futsal</string>
+    <string name="cat_cricket">Cricket</string>
+    <string name="cat_badminton">Badminton</string>
+
+    <string name="search">Search for indoors by names or city</string>
+    <string name="stadium_name">CR7 Futsal &amp; Indoor Cricket Court</string>
+    <string name="stadium_location">Kollupitiya</string>
+    <string name="stadium_open">Open</string>
+    <string name="closing_time">Closes at 12AM</string>
+    <string name="stadium_price">Rs. 3500</string>
+
+    <string name="btn_sign_up">Sign Up</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="stadium_owner">Stadium Owner</string>
+    <string name="player">PLayer</string>
+    <string name="loginBtnInSignup">Already a user? Login</string>
+    <string name="btn_sign_in">Sign In</string>
+    <string name="welcome_back">WELCOME BACK!</string>
+    <string name="signupBtnInSignIn">Are you new here? Register</string>
+    <string name="user">User</string>
+    <string name="stadiumImage">Stadium Image</string>
+
+    <string name="tv_headline">Register Your Stadium With book2play</string>
+    <string name="et_stadiumPhone">Phone Number</string>
+    <string name="et_stadiumName">Stadium Name</string>
+    <string name="et_stadiumAddress">Stadium Address</string>
+    <string name="et_stadiumOT">Open Time</string>
+    <string name="et_stadiumCT">Close Time</string>
+    <string name="et_stadiumPrice">Session Price</string>
+    <string name="btn_stadiumRegister">REGISTER</string>
+    <string name="btn_addImage">Insert Image</string>
+
+    <string name="nav_ownerHome">Home</string>
+    <string name="nav_myStadiums">My Stadiums</string>
+    <string name="nav_ownerLogout">Logout</string>
+    <string name="nav_addStadium">Add Stadium</string>
+    <string name="openNavDrawer">Navigation Drawer Open</string>
+    <string name="closeNavDrawer">Navigation Drawer Close</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="stadiumTypeTextField">Stadium Type</string>
+    <string name="edit_tv_headline">Update Your Stadium Details</string>
+    <string name="btn_stadiumUpdate">Update</string>
+    <string name="expected_income">Expected Total Income : </string>
+    <string name="_0">0</string>
+
+</resources>

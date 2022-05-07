@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "751043380112",
+    "project_id": "brave-apparels-d1464",
+    "storage_bucket": "brave-apparels-d1464.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751043380112:android:07597d45822654aae82915",
+        "android_client_info": {
+          "package_name": "com.example.madfinalproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751043380112-hk813s8qgeu866014dopc678jm2c4h30.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDW45QzI1dCrL7OnSF50KqiytNTYnzqrEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "751043380112-hk813s8qgeu866014dopc678jm2c4h30.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
