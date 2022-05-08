@@ -76,7 +76,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void openlogin(View v) {
-        Intent intent = new Intent(this,Login.class);
+        Intent intent = new Intent(this,SignIn.class);
         startActivity(intent);
     }
 
