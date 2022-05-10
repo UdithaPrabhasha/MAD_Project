@@ -3,14 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/SLIIT/2nd Year/2 sem/Brave APP/app/src/main/res/drawable/custom_button.xml" value="0.1695" />
-        <entry key="..\:/SLIIT/2nd Year/2 sem/Brave APP/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1695" />
-        <entry key="..\:/SLIIT/2nd Year/2 sem/Brave APP/app/src/main/res/font/poppins.xml" value="0.190625" />
-        <entry key="..\:/SLIIT/2nd Year/2 sem/Brave APP/app/src/main/res/layout/activity_feedback.xml" value="0.264" />
-        <entry key="..\:/SLIIT/2nd Year/2 sem/Brave APP/app/src/main/res/layout/activity_login.xml" value="0.1" />
-        <entry key="..\:/SLIIT/2nd Year/2 sem/Brave APP/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
-        <entry key="..\:/SLIIT/2nd Year/2 sem/Brave APP/app/src/main/res/layout/activity_profile.xml" value="0.22826086956521738" />
-        <entry key="..\:/SLIIT/2nd Year/2 sem/Brave APP/app/src/main/res/layout/activity_sign_in.xml" value="0.11614583333333334" />
+        <entry key="..\:/SLIIT/2nd Year/2 sem/Brave Application Done/Brave APP/app/src/main/res/layout/activity_add_feedback.xml" value="0.2" />
+        <entry key="..\:/SLIIT/2nd Year/2 sem/Brave Application Done/Brave APP/app/src/main/res/layout/activity_feedback.xml" value="0.25" />
+        <entry key="..\:/SLIIT/2nd Year/2 sem/Brave Application Done/Brave APP/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/SLIIT/2nd Year/2 sem/Brave Application Done/Brave APP/app/src/main/res/layout/activity_main.xml" value="0.72" />
+        <entry key="..\:/SLIIT/2nd Year/2 sem/Brave Application Done/Brave APP/app/src/main/res/layout/activity_profile.xml" value="0.15178571428571427" />
+        <entry key="..\:/SLIIT/2nd Year/2 sem/Brave Application Done/Brave APP/app/src/main/res/layout/activity_sign_in.xml" value="0.25" />
+        <entry key="..\:/SLIIT/2nd Year/2 sem/Brave Application Done/Brave APP/app/src/main/res/layout/activity_update_details.xml" value="0.22826086956521738" />
+        <entry key="..\:/SLIIT/2nd Year/2 sem/Brave Application Done/Brave APP/app/src/main/res/layout/activity_view_feedback.xml" value="0.176" />
       </map>
     </option>
   </component>
